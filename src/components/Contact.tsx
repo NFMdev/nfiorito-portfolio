@@ -9,8 +9,7 @@ export default function Contact() {
           Let’s build the real-time layer
         </h2>
         <p className="mt-4 max-w-2xl text-base text-white/70">
-          If you’re building a Java backend, data pipeline, or a product that
-          needs real-time systems, I’d love to talk.
+          If you’re building something meaningful and want to turn complex ideas into reliable, well-crafted systems, I’d love to talk.
         </p>
         <div className="mt-6 flex flex-wrap gap-4 text-sm">
           <a

@@ -11,7 +11,9 @@ export default function Skills() {
       <div className="mt-10 grid gap-4 md:grid-cols-2">
         {[
           "Java / Spring Boot / JPA",
+          "Node.js / Express / Prisma",
           "PostgreSQL / Flyway / WAL-CDC",
+          "Mongodb / Mongoose / data modeling",
           "Apache Flink / stream processing",
           "Elasticsearch / search & analytics",
           "Docker / Compose / local orchestration",
